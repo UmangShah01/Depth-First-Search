@@ -7,5 +7,12 @@ DFS Algorithm is used in many problems like matching in a graph, taveling salesm
 DFS Algorithm is almost same as BFS Algorithm ie, it means it works same ,but the only difference their is bfs travels level vise 
 and dfs travels from root to the leaf node and than backtracks to next node in that level.
 
-
+# Steps To Implement 
+  1. Start From The Root Node.
+  2. Traverse till the leaf Node of it.
+  3. BackTrack to the immdiate parent node.
+  4. Repeat Untill all the nodes have traversed or reach the goal node.
+  
+  # For Eg: 
+  
 
