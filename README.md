@@ -13,6 +13,11 @@ and dfs travels from root to the leaf node and than backtracks to next node in t
   3. BackTrack to the immdiate parent node.
   4. Repeat Untill all the nodes have traversed or reach the goal node.
   
-  # For Eg: 
+ # Note:
+ **_The Depth-First-Search TARVERSAL SHOULD NOT REPEAT A NODE , IT WILL GO INTO LOOP WHILE EXECUTING IT ON PROGRAM_**
   
+  # For Eg: 
+  The Depth-First-Search Traversal is:**1,2,3,4,5,6,7,8,9,10**
+  ![Depth-First-Search](https://user-images.githubusercontent.com/51750338/62003821-60194880-b13a-11e9-8b30-67512b701acb.gif)
+
 
